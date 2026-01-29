@@ -1,1 +1,29 @@
-{"bookmarks":{"ISS":{"bandwidth":12500.0,"frequency":437800000.0,"mode":0},"NOAA 15 - Weather | https://www.n2yo.com/satellite/?s=25338":{"bandwidth":250000.0,"frequency":137620000.0,"mode":0},"NOAA 18 - Weather | https://www.n2yo.com/satellite/?s=28654":{"bandwidth":50000.0,"frequency":137912500.0,"mode":0},"NOAA 19 - Weather | https://www.n2yo.com/satellite/?s=33591":{"bandwidth":50000.0,"frequency":137100000.0,"mode":0},"Tiangong":{"bandwidth":12500.0,"frequency":436510000.0,"mode":0}}}
+{
+    "bookmarks": {
+        "ISS": {
+            "bandwidth": 12500.0,
+            "frequency": 437800000.0,
+            "mode": 0
+        },
+        "NOAA 15 - Weather | https://www.n2yo.com/satellite/?s=25338": {
+            "bandwidth": 250000.0,
+            "frequency": 137620000.0,
+            "mode": 0
+        },
+        "NOAA 18 - Weather | https://www.n2yo.com/satellite/?s=28654": {
+            "bandwidth": 50000.0,
+            "frequency": 137912500.0,
+            "mode": 0
+        },
+        "NOAA 19 - Weather | https://www.n2yo.com/satellite/?s=33591": {
+            "bandwidth": 50000.0,
+            "frequency": 137100000.0,
+            "mode": 0
+        },
+        "Tiangong": {
+            "bandwidth": 12500.0,
+            "frequency": 436510000.0,
+            "mode": 0
+        }
+    }
+}

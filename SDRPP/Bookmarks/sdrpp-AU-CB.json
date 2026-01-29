@@ -1,1 +1,404 @@
-{"bookmarks":{"CB 01RP":{"bandwidth":12500.0,"frequency":476425000.0,"mode":0},"CB 02RP":{"bandwidth":12500.0,"frequency":476450000.0,"mode":0},"CB 03RP":{"bandwidth":12500.0,"frequency":476475000.0,"mode":0},"CB 04RP":{"bandwidth":12500.0,"frequency":476500000.0,"mode":0},"CB 05RP (EMERG)":{"bandwidth":12500.0,"frequency":476525000.0,"mode":0},"CB 06RP":{"bandwidth":12500.0,"frequency":476550000.0,"mode":0},"CB 07RP":{"bandwidth":12500.0,"frequency":476575000.0,"mode":0},"CB 08RP":{"bandwidth":12500.0,"frequency":476600000.0,"mode":0},"CB 09 (GEN)":{"bandwidth":12500.0,"frequency":476625000.0,"mode":0},"CB 10 (4WD)":{"bandwidth":12500.0,"frequency":476650000.0,"mode":0},"CB 11 (CALL)":{"bandwidth":12500.0,"frequency":476675000.0,"mode":0},"CB 12 (GEN)":{"bandwidth":12500.0,"frequency":476700000.0,"mode":0},"CB 13 (GEN)":{"bandwidth":12500.0,"frequency":476725000.0,"mode":0},"CB 14 (GEN)":{"bandwidth":12500.0,"frequency":476750000.0,"mode":0},"CB 15 (GEN)":{"bandwidth":12500.0,"frequency":476775000.0,"mode":0},"CB 16 (GEN)":{"bandwidth":12500.0,"frequency":476800000.0,"mode":0},"CB 17 (GEN)":{"bandwidth":12500.0,"frequency":476825000.0,"mode":0},"CB 18 (CAMPER)":{"bandwidth":12500.0,"frequency":476850000.0,"mode":0},"CB 19 (GEN)":{"bandwidth":12500.0,"frequency":476875000.0,"mode":0},"CB 20 (GEN)":{"bandwidth":12500.0,"frequency":476900000.0,"mode":0},"CB 21 (GEN)":{"bandwidth":12500.0,"frequency":476925000.0,"mode":0},"CB 22T (DATA)":{"bandwidth":25000.0,"frequency":476950000.0,"mode":0},"CB 23T (DATA)":{"bandwidth":25000.0,"frequency":476975000.0,"mode":0},"CB 24 (GEN)":{"bandwidth":12500.0,"frequency":477000000.0,"mode":0},"CB 25 (GEN)":{"bandwidth":12500.0,"frequency":477025000.0,"mode":0},"CB 26 (GEN)":{"bandwidth":12500.0,"frequency":477050000.0,"mode":0},"CB 27 (GEN)":{"bandwidth":12500.0,"frequency":477075000.0,"mode":0},"CB 28 (GEN)":{"bandwidth":12500.0,"frequency":477100000.0,"mode":0},"CB 29 (HWY/QLD/NSW)":{"bandwidth":12500.0,"frequency":477125000.0,"mode":0},"CB 30 (BROADCAST)":{"bandwidth":12500.0,"frequency":477150000.0,"mode":0},"CB 31R":{"bandwidth":12500.0,"frequency":477175000.0,"mode":0},"CB 32R":{"bandwidth":12500.0,"frequency":477200000.0,"mode":0},"CB 33R":{"bandwidth":12500.0,"frequency":477225000.0,"mode":0},"CB 34R":{"bandwidth":12500.0,"frequency":477250000.0,"mode":0},"CB 35R (EMERG)":{"bandwidth":12500.0,"frequency":477275000.0,"mode":0},"CB 36R":{"bandwidth":12500.0,"frequency":477300000.0,"mode":0},"CB 37R":{"bandwidth":12500.0,"frequency":477325000.0,"mode":0},"CB 38R":{"bandwidth":12500.0,"frequency":477350000.0,"mode":0},"CB 39 (GEN)":{"bandwidth":12500.0,"frequency":477375000.0,"mode":0},"CB 40 (TRUCK/HWY)":{"bandwidth":12500.0,"frequency":477400000.0,"mode":0},"CB 41R":{"bandwidth":12500.0,"frequency":476437500.0,"mode":0},"CB 42R":{"bandwidth":12500.0,"frequency":476462500.0,"mode":0},"CB 43R":{"bandwidth":12500.0,"frequency":476487500.0,"mode":0},"CB 44R":{"bandwidth":12500.0,"frequency":476512500.0,"mode":0},"CB 45R":{"bandwidth":12500.0,"frequency":476537500.0,"mode":0},"CB 46R":{"bandwidth":12500.0,"frequency":476562500.0,"mode":0},"CB 47R":{"bandwidth":12500.0,"frequency":476587500.0,"mode":0},"CB 48R":{"bandwidth":12500.0,"frequency":476612500.0,"mode":0},"CB 49 (GEN)":{"bandwidth":12500.0,"frequency":476637500.0,"mode":0},"CB 50 (GEN)":{"bandwidth":12500.0,"frequency":476662500.0,"mode":0},"CB 51 (GEN)":{"bandwidth":12500.0,"frequency":476687500.0,"mode":0},"CB 52 (GEN)":{"bandwidth":12500.0,"frequency":476712500.0,"mode":0},"CB 53 (GEN)":{"bandwidth":12500.0,"frequency":476737500.0,"mode":0},"CB 54 (GEN)":{"bandwidth":12500.0,"frequency":476762500.0,"mode":0},"CB 55 (GEN)":{"bandwidth":12500.0,"frequency":476787500.0,"mode":0},"CB 56 (GEN)":{"bandwidth":12500.0,"frequency":476812500.0,"mode":0},"CB 57 (GEN)":{"bandwidth":12500.0,"frequency":476837500.0,"mode":0},"CB 58 (GEN)":{"bandwidth":12500.0,"frequency":476862500.0,"mode":0},"CB 59 (GEN)":{"bandwidth":12500.0,"frequency":476887500.0,"mode":0},"CB 60 (GEN)":{"bandwidth":12500.0,"frequency":476912500.0,"mode":0},"CB 61* (RESERVED)":{"bandwidth":12500.0,"frequency":476937500.0,"mode":0},"CB 62* (RESERVED)":{"bandwidth":12500.0,"frequency":476962500.0,"mode":0},"CB 63* (RESERVED)":{"bandwidth":12500.0,"frequency":476987500.0,"mode":0},"CB 64 (GEN)":{"bandwidth":12500.0,"frequency":477012500.0,"mode":0},"CB 65 (GEN)":{"bandwidth":12500.0,"frequency":477037500.0,"mode":0},"CB 66 (GEN)":{"bandwidth":12500.0,"frequency":477062500.0,"mode":0},"CB 67 (GEN)":{"bandwidth":12500.0,"frequency":477087500.0,"mode":0},"CB 68 (GEN)":{"bandwidth":12500.0,"frequency":477112500.0,"mode":0},"CB 69 (GEN)":{"bandwidth":12500.0,"frequency":477137500.0,"mode":0},"CB 70 (GEN)":{"bandwidth":12500.0,"frequency":477162500.0,"mode":0},"CB 71R":{"bandwidth":12500.0,"frequency":477187500.0,"mode":0},"CB 72R":{"bandwidth":12500.0,"frequency":477212500.0,"mode":0},"CB 73R":{"bandwidth":12500.0,"frequency":477237500.0,"mode":0},"CB 74R":{"bandwidth":12500.0,"frequency":477262500.0,"mode":0},"CB 75R":{"bandwidth":12500.0,"frequency":477287500.0,"mode":0},"CB 76R":{"bandwidth":12500.0,"frequency":477312500.0,"mode":0},"CB 77R":{"bandwidth":12500.0,"frequency":477337500.0,"mode":0},"CB 78R":{"bandwidth":12500.0,"frequency":477362500.0,"mode":0},"CB 79 (GEN)":{"bandwidth":12500.0,"frequency":477387500.0,"mode":0},"CB 80 (GEN)":{"bandwidth":12500.0,"frequency":477412500.0,"mode":0}}}
+{
+    "bookmarks": {
+        "CB 01RP": {
+            "bandwidth": 12500.0,
+            "frequency": 476425000.0,
+            "mode": 0
+        },
+        "CB 02RP": {
+            "bandwidth": 12500.0,
+            "frequency": 476450000.0,
+            "mode": 0
+        },
+        "CB 03RP": {
+            "bandwidth": 12500.0,
+            "frequency": 476475000.0,
+            "mode": 0
+        },
+        "CB 04RP": {
+            "bandwidth": 12500.0,
+            "frequency": 476500000.0,
+            "mode": 0
+        },
+        "CB 05RP (EMERG)": {
+            "bandwidth": 12500.0,
+            "frequency": 476525000.0,
+            "mode": 0
+        },
+        "CB 06RP": {
+            "bandwidth": 12500.0,
+            "frequency": 476550000.0,
+            "mode": 0
+        },
+        "CB 07RP": {
+            "bandwidth": 12500.0,
+            "frequency": 476575000.0,
+            "mode": 0
+        },
+        "CB 08RP": {
+            "bandwidth": 12500.0,
+            "frequency": 476600000.0,
+            "mode": 0
+        },
+        "CB 09 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476625000.0,
+            "mode": 0
+        },
+        "CB 10 (4WD)": {
+            "bandwidth": 12500.0,
+            "frequency": 476650000.0,
+            "mode": 0
+        },
+        "CB 11 (CALL)": {
+            "bandwidth": 12500.0,
+            "frequency": 476675000.0,
+            "mode": 0
+        },
+        "CB 12 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476700000.0,
+            "mode": 0
+        },
+        "CB 13 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476725000.0,
+            "mode": 0
+        },
+        "CB 14 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476750000.0,
+            "mode": 0
+        },
+        "CB 15 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476775000.0,
+            "mode": 0
+        },
+        "CB 16 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476800000.0,
+            "mode": 0
+        },
+        "CB 17 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476825000.0,
+            "mode": 0
+        },
+        "CB 18 (CAMPER)": {
+            "bandwidth": 12500.0,
+            "frequency": 476850000.0,
+            "mode": 0
+        },
+        "CB 19 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476875000.0,
+            "mode": 0
+        },
+        "CB 20 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476900000.0,
+            "mode": 0
+        },
+        "CB 21 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476925000.0,
+            "mode": 0
+        },
+        "CB 22T (DATA)": {
+            "bandwidth": 25000.0,
+            "frequency": 476950000.0,
+            "mode": 0
+        },
+        "CB 23T (DATA)": {
+            "bandwidth": 25000.0,
+            "frequency": 476975000.0,
+            "mode": 0
+        },
+        "CB 24 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477000000.0,
+            "mode": 0
+        },
+        "CB 25 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477025000.0,
+            "mode": 0
+        },
+        "CB 26 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477050000.0,
+            "mode": 0
+        },
+        "CB 27 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477075000.0,
+            "mode": 0
+        },
+        "CB 28 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477100000.0,
+            "mode": 0
+        },
+        "CB 29 (HWY/QLD/NSW)": {
+            "bandwidth": 12500.0,
+            "frequency": 477125000.0,
+            "mode": 0
+        },
+        "CB 30 (BROADCAST)": {
+            "bandwidth": 12500.0,
+            "frequency": 477150000.0,
+            "mode": 0
+        },
+        "CB 31R": {
+            "bandwidth": 12500.0,
+            "frequency": 477175000.0,
+            "mode": 0
+        },
+        "CB 32R": {
+            "bandwidth": 12500.0,
+            "frequency": 477200000.0,
+            "mode": 0
+        },
+        "CB 33R": {
+            "bandwidth": 12500.0,
+            "frequency": 477225000.0,
+            "mode": 0
+        },
+        "CB 34R": {
+            "bandwidth": 12500.0,
+            "frequency": 477250000.0,
+            "mode": 0
+        },
+        "CB 35R (EMERG)": {
+            "bandwidth": 12500.0,
+            "frequency": 477275000.0,
+            "mode": 0
+        },
+        "CB 36R": {
+            "bandwidth": 12500.0,
+            "frequency": 477300000.0,
+            "mode": 0
+        },
+        "CB 37R": {
+            "bandwidth": 12500.0,
+            "frequency": 477325000.0,
+            "mode": 0
+        },
+        "CB 38R": {
+            "bandwidth": 12500.0,
+            "frequency": 477350000.0,
+            "mode": 0
+        },
+        "CB 39 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477375000.0,
+            "mode": 0
+        },
+        "CB 40 (TRUCK/HWY)": {
+            "bandwidth": 12500.0,
+            "frequency": 477400000.0,
+            "mode": 0
+        },
+        "CB 41R": {
+            "bandwidth": 12500.0,
+            "frequency": 476437500.0,
+            "mode": 0
+        },
+        "CB 42R": {
+            "bandwidth": 12500.0,
+            "frequency": 476462500.0,
+            "mode": 0
+        },
+        "CB 43R": {
+            "bandwidth": 12500.0,
+            "frequency": 476487500.0,
+            "mode": 0
+        },
+        "CB 44R": {
+            "bandwidth": 12500.0,
+            "frequency": 476512500.0,
+            "mode": 0
+        },
+        "CB 45R": {
+            "bandwidth": 12500.0,
+            "frequency": 476537500.0,
+            "mode": 0
+        },
+        "CB 46R": {
+            "bandwidth": 12500.0,
+            "frequency": 476562500.0,
+            "mode": 0
+        },
+        "CB 47R": {
+            "bandwidth": 12500.0,
+            "frequency": 476587500.0,
+            "mode": 0
+        },
+        "CB 48R": {
+            "bandwidth": 12500.0,
+            "frequency": 476612500.0,
+            "mode": 0
+        },
+        "CB 49 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476637500.0,
+            "mode": 0
+        },
+        "CB 50 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476662500.0,
+            "mode": 0
+        },
+        "CB 51 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476687500.0,
+            "mode": 0
+        },
+        "CB 52 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476712500.0,
+            "mode": 0
+        },
+        "CB 53 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476737500.0,
+            "mode": 0
+        },
+        "CB 54 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476762500.0,
+            "mode": 0
+        },
+        "CB 55 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476787500.0,
+            "mode": 0
+        },
+        "CB 56 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476812500.0,
+            "mode": 0
+        },
+        "CB 57 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476837500.0,
+            "mode": 0
+        },
+        "CB 58 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476862500.0,
+            "mode": 0
+        },
+        "CB 59 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476887500.0,
+            "mode": 0
+        },
+        "CB 60 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 476912500.0,
+            "mode": 0
+        },
+        "CB 61* (RESERVED)": {
+            "bandwidth": 12500.0,
+            "frequency": 476937500.0,
+            "mode": 0
+        },
+        "CB 62* (RESERVED)": {
+            "bandwidth": 12500.0,
+            "frequency": 476962500.0,
+            "mode": 0
+        },
+        "CB 63* (RESERVED)": {
+            "bandwidth": 12500.0,
+            "frequency": 476987500.0,
+            "mode": 0
+        },
+        "CB 64 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477012500.0,
+            "mode": 0
+        },
+        "CB 65 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477037500.0,
+            "mode": 0
+        },
+        "CB 66 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477062500.0,
+            "mode": 0
+        },
+        "CB 67 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477087500.0,
+            "mode": 0
+        },
+        "CB 68 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477112500.0,
+            "mode": 0
+        },
+        "CB 69 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477137500.0,
+            "mode": 0
+        },
+        "CB 70 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477162500.0,
+            "mode": 0
+        },
+        "CB 71R": {
+            "bandwidth": 12500.0,
+            "frequency": 477187500.0,
+            "mode": 0
+        },
+        "CB 72R": {
+            "bandwidth": 12500.0,
+            "frequency": 477212500.0,
+            "mode": 0
+        },
+        "CB 73R": {
+            "bandwidth": 12500.0,
+            "frequency": 477237500.0,
+            "mode": 0
+        },
+        "CB 74R": {
+            "bandwidth": 12500.0,
+            "frequency": 477262500.0,
+            "mode": 0
+        },
+        "CB 75R": {
+            "bandwidth": 12500.0,
+            "frequency": 477287500.0,
+            "mode": 0
+        },
+        "CB 76R": {
+            "bandwidth": 12500.0,
+            "frequency": 477312500.0,
+            "mode": 0
+        },
+        "CB 77R": {
+            "bandwidth": 12500.0,
+            "frequency": 477337500.0,
+            "mode": 0
+        },
+        "CB 78R": {
+            "bandwidth": 12500.0,
+            "frequency": 477362500.0,
+            "mode": 0
+        },
+        "CB 79 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477387500.0,
+            "mode": 0
+        },
+        "CB 80 (GEN)": {
+            "bandwidth": 12500.0,
+            "frequency": 477412500.0,
+            "mode": 0
+        }
+    }
+}
